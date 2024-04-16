@@ -7,11 +7,6 @@
 - ⚡ Fun fact: i love sports and musical instrument
 
 ```stl
-!
-Berikut adalah source code yang telah diubah menjadi representasi bola 3D dalam format STL:
-
-stl
-Copy code
 solid sphere
   facet normal 0.000000 -0.707107 -0.707107
     outer loop
