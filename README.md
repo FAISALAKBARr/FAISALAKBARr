@@ -1,5 +1,5 @@
 #About Me👾
-:wave:
+
 - 👋 Hi, I’m @FAISALAKBARr
 - 👀 I’m interested in in web development and mobile application development especially the front end
 - 🌱 I’m currently learning HTML, C++, Phyton, Javascript
