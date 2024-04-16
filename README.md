@@ -3213,5 +3213,6 @@ solid sphere
       vertex 0.500000 -0.500000 -0.500000
       vertex 0.500000 0.500000 -0.500000
     endloop
-endfacet
+  endfacet
+endsolid
 ```
